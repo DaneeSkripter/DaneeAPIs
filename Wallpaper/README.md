@@ -3,7 +3,7 @@
 - Wallpaper API can randomly generate wallpapers from other users
 - If you want add your favorite wallpaper check Contribution tab!
 ## Use
-- Go to **https://wallpaperapi.tk/api/phone** or **https://wallpaperapi.tk/api/desktop**
+- Go to **https://wallpaper.daneeapis.tk/phone** or **https://wallpaper.daneeapis.tk/desktop**
 ## Contribution
 ### Tutorial
 1. Go to Wallpaper API repository
