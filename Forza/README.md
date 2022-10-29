@@ -2,7 +2,7 @@
 ## About
 Forza API is API that generate random image of cars from Forza.
 ## Use
-https://forzaapi.tk
+https://forza.daneeapis.tk
 ## Contribute
 ### Requirements
 Image maximum resolution: **1920** x **1080**
@@ -15,6 +15,6 @@ Image name must to be **car name**
 2. Upload a image to **img** folder
 3. Create a pull request
 ## Links
-API - https://forzaapi.tk
+API - https://forza.daneeapis.tk
 
-Docs - https://docs.forzaapi.tk
+Docs - https://docs.daneeapis.tk/forza
